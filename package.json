@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "node-vk-bot-api": "^3.5.0"
+  }
+}
